@@ -1,6 +1,10 @@
 <div align="center">
   <h1 align="center">Hola, soy Jenyfer Montano Altamirano 👋</h1>
+  <p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5D5FF7&center=true&width=435&lines=Estudiante+de+Ingenieria+en+Sistemas;Siempre+aprendiendo+nuevas+cosas" alt="Typing SVG" /></a>
+</p>
 </div>
+
 
 <hr>
 
@@ -8,8 +12,10 @@
   <h2>Sobre mí</h2>
   <ul style="list-style: none; padding: 0;">
     <li>⭐ Soy estudiante de Ingeniería en Sistemas de Información en la Universidad Nacional de Costa Rica (UNA) ⭐</li>
-    <li>🌱 Actualmente estoy aprendiendo: Python y Hacking Ético</li>
+   <li>🌱 Actualmente estoy aprendiendo Python y Hacking Ético, además estoy en camino de aprender más sobre Aprendizaje Automático (Machine Learning) y la automatización de procesos.</li>
     <li>💡 Me apasiona aprender nuevas tecnologías y explorar herramientas innovadoras</li>
+   <li> ✏️ Soy una persona entusiasta y sociable a la que le encanta asumir nuevos desafíos y aprender nuevas habilidades.</li>
+    <li>💡 Me encanta conocer gente nueva, intercambiar ideas y difundir conocimiento y positividad.</li>
   </ul>
 </div>
 
@@ -30,8 +36,11 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/IntelliJ-%23F2C811.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/netbeans-%23F0C200.svg?style=for-the-badge&logo=netbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/uipath-%23F2A900.svg?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
 </p>
 </div>
+
+
 
 <!--
 **JenyferMontano/JenyferMontano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

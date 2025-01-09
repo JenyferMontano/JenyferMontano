@@ -62,7 +62,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Sistema de Inventario FIFCO</h3>
+      <h3 align="center">Sistema de Inventario de Productos</h3>
       <div align="center">
         <a href="https://github.com/JenyferMontano/Sistema-de-Inventario-FIFCOO" target="_blank">
           <img src="https://drive.google.com/uc?id=1qTaOC6ktPOsgE0cgy20Bim_gMywzlddW" width="300" alt="Sistema de Inventario FIFCO">
@@ -73,7 +73,7 @@
           </a>
         </p>
         <p>
-          Sistema diseñado para gestionar eficientemente el inventario de productos de FIFCO, incluyendo funcionalidades de registro, consulta y reportes detallados.
+          Sistema diseñado para gestionar eficientemente el inventario de productos de una empresa ficticia llamada FIFCOO, incluyendo funcionalidades de registro, consulta y reportes detallados.
         </p>
       </div>
     </td>

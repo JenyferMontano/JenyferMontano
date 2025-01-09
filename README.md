@@ -41,6 +41,100 @@
 </div>
 
 
+## 📂 Proyectos
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sistema de Citas Médicas</h3>
+      <div align="center">
+        <a href="https://github.com/JenyferMontano/Sistema-de-Citas-Medicas" target="_blank">
+          <img src="https://drive.google.com/uc?id=12M2EP3AUZ-0qfYQfwyeWdNgeRdE8OVUp" width="300" alt="Sistema de Citas Médicas">
+        </a>
+        <p>
+          <a href="https://github.com/JenyferMontano/Sistema-de-Citas-Medicas" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Sistema web diseñado para gestionar citas médicas, con funcionalidades para médicos, pacientes y administradores.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sistema de Inventario FIFCO</h3>
+      <div align="center">
+        <a href="https://github.com/JenyferMontano/Sistema-de-Inventario-FIFCOO" target="_blank">
+          <img src="https://drive.google.com/uc?id=1qTaOC6ktPOsgE0cgy20Bim_gMywzlddW" width="300" alt="Sistema de Inventario FIFCO">
+        </a>
+        <p>
+          <a href="https://github.com/JenyferMontano/Sistema-de-Inventario-FIFCOO" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Sistema diseñado para gestionar eficientemente el inventario de productos de FIFCO, incluyendo funcionalidades de registro, consulta y reportes detallados.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sistema de Remesas - Pantalla de Login</h3>
+      <div align="center">
+        <a href="https://github.com/JenyferMontano/Sistema-de-Remesas" target="_blank">
+          <img src="https://drive.google.com/uc?id=1ebecelHlWP52X0-m476CAs0HuBAzGdYL" width="300" alt="Login - Sistema de Remesas">
+        </a>
+        <p>
+          <a href="https://github.com/JenyferMontano/Sistema-de-Remesas" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Sistema diseñado para gestionar solicitudes, autorizaciones y seguimiento de remesas. La pantalla de login permite acceder con perfiles de Administrador o Cliente.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sistema de Remesas - Vista Principal</h3>
+      <div align="center">
+        <a href="https://github.com/JenyferMontano/Sistema-de-Remesas" target="_blank">
+          <img src="https://drive.google.com/uc?id=1MZxZBwUTNccJMgr38PDFraf7mVxFRDp2" width="300" alt="Vista principal - Sistema de Remesas">
+        </a>
+        <p>
+          <a href="https://github.com/JenyferMontano/Sistema-de-Remesas" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Vista principal que permite a los usuarios gestionar remesas, consultar estados y acceder a información detallada de agentes y vehículos.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 ¿Quieres contactarme?
+
+Si estás interesado en trabajar conmigo o simplemente quieres conversar, puedes encontrarme en:  
+- **Email:** jenifermontano32@gmail.com o bien, jenyfer.montano.altamirano@est.una.ac.cr
+- **LinkedIn:** [Jenyfer Montano](https://www.linkedin.com/in/tuperfil/)  
+
+¡Estoy emocionada por escuchar de ti! 😊
+
+
+
+
+
+
+
+
+
 
 <!--
 **JenyferMontano/JenyferMontano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -57,7 +57,7 @@
           </a>
         </p>
         <p>
-          Sistema web diseñado para gestionar citas médicas, con funcionalidades para médicos, pacientes y administradores.
+          Sistema diseñado para gestionar citas médicas, con funcionalidades para médicos, pacientes y administradores.
         </p>
       </div>
     </td>

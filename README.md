@@ -123,7 +123,7 @@
 
 Si estás interesado en trabajar conmigo o simplemente quieres conversar, puedes encontrarme en:  
 - **Email:** jenifermontano32@gmail.com o bien, jenyfer.montano.altamirano@est.una.ac.cr
-- **LinkedIn:** [Jenyfer Montano](https://www.linkedin.com/in/tuperfil/)  
+- **LinkedIn:** [Jenyfer Montano](https://www.linkedin.com/feed/)  
 
 ¡Estoy emocionada por escuchar de ti! 😊
 
